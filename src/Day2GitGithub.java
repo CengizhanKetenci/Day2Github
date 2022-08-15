@@ -16,7 +16,7 @@ public class Day2GitGithub {
     git push yazmam yeterli olacaktır.
     6-  git pull --> Remote (yani uzak repo) daki dosyalarımızı güncellemek yani localimize çekmek için kullanılır.
     
-    Not : Not:
+    Not : Not: Not : Not: Not : Not:
 
      */
     public static void main(String[] args) {
