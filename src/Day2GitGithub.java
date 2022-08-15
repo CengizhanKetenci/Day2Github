@@ -24,5 +24,6 @@ public class Day2GitGithub {
         System.out.println("Github'ı da öğrendim");
         System.out.println("Branch oluştur ve birleştir");
         System.out.println("master 1.deneme");
+        System.out.println("master 2.deneme");
     }
 }
