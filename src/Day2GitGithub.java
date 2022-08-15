@@ -14,6 +14,7 @@ public class Day2GitGithub {
             git push -u orijin master
     Not: yukarıdaki iki komutu ilk seferde kullandıktan sonra diğer ikinci yapacağım commit lerim için sadece
     git push yazmam yeterli olacaktır.
+    6-  git pull --> Remote (yani uzak repo) daki dosyalarımızı güncellemek yani localimize çekmek için kullanılır.
     
     Not : Not:
 
