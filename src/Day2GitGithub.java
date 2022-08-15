@@ -17,9 +17,11 @@ public class Day2GitGithub {
     6-  git pull --> Remote (yani uzak repo) daki dosyalarımızı güncellemek yani localimize çekmek için kullanılır.
     
     Not : Not: Not : Not: Not : Not:
+    Branch oluşturup tekrar birleştirelim.
 
      */
     public static void main(String[] args) {
         System.out.println("Github'ı da öğrendim");
+        System.out.println("Branch oluştur ve birleştir");
     }
 }
