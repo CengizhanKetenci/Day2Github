@@ -16,4 +16,7 @@ public class Day2GitGithub {
     git push yazmam yeterli olacaktır.
 
      */
+    public static void main(String[] args) {
+        System.out.println("Github'ı da öğrendim");
+    }
 }
