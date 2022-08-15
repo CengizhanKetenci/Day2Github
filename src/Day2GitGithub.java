@@ -14,6 +14,8 @@ public class Day2GitGithub {
             git push -u orijin master
     Not: yukarıdaki iki komutu ilk seferde kullandıktan sonra diğer ikinci yapacağım commit lerim için sadece
     git push yazmam yeterli olacaktır.
+    
+    Not : Not:
 
      */
     public static void main(String[] args) {
